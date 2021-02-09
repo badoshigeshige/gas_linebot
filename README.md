@@ -6,11 +6,14 @@
 大学へのアクセスは3つの駅があり、それぞれ異なる時刻でバスが運行しており、「駅から大学」と「大学から駅」の合計6パターンに対応した残り時間を返答してくれます。<br>
 行き先パターン選択には、リッチメニューを導入し、ユーザーは行き先を入力ではなくワンタップで示すことができ、快適にBotを使用することができます。
 
+## アプリケーション動作動画
+https://user-images.githubusercontent.com/58199648/107315963-0fc6c900-6adb-11eb-8572-43bc833b0df0.mp4
+
 # 機能一覧
 * 行き先を選択し、出発時間までの残り時間が何分かを返答
 
 # 使用技術一覧
-* Google Apps Script
+* Google Apps Script(spreadsheetsURL：https://docs.google.com/spreadsheets/d/1Obm6Ra-Y_nhIB7hyy0rllbxHO--xK_nYTbX4m8RXKDM/edit?usp=sharing)
 * LINE Messaging API
 * Webhook<br>
 
